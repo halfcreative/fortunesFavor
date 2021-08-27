@@ -1,0 +1,19 @@
+{
+  "name": "fortunesfavor",
+  "version": "0.0.1",
+  "description": "An asset trading bot inspired by the mathimatics of probability and gambling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halfcreative/fortunesFavor.git"
+  },
+  "author": "Alan Sato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halfcreative/fortunesFavor/issues"
+  },
+  "homepage": "https://github.com/halfcreative/fortunesFavor#readme"
+}
